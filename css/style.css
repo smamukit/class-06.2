@@ -1,0 +1,36 @@
+
+* {margin: 0; padding: 0; box-sizing: border-box; }
+
+
+.text {
+  padding: 100px;
+}
+.text h1 {
+  font-size: 60px;
+}
+.text a {
+  color: #fff;
+}
+.text p {
+  font-size: 19px;
+  font-weight: 400;
+}
+ form p {
+  font-size: 13px;
+}
+
+.form-text {
+  font-size: 12px;
+  margin-top: 5px;
+}
+button {
+  margin: 20px 0;
+  font-size: 18px;
+  display: block;
+  padding: 30px 0;
+}
+
+.logo-img {
+  height: 40px;
+  display: block;
+}
